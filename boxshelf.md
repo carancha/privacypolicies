@@ -1,0 +1,16 @@
+# BoxShelf Privacy Policy
+
+## Introduction
+This privacy policy explains how BoxShelf handles your personal information...
+
+## Information Collection
+We collect various types of information to provide you with our service...
+
+## Use of Information
+The information we collect is used to...
+
+## Data Security
+We implement a variety of security measures to maintain the safety of your...
+
+## Changes to This Privacy Policy
+We may update our privacy policy from time to time...
