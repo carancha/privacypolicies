@@ -9,8 +9,5 @@ Our commitment to your privacy is paramount. We outline how we collect, use, and
 ## Policies
 
 - [**BoxShelf**](boxshelf-privacy.md) - Privacy policy for the BoxShelf app
-- **Data Collection**: Information on what data we collect.
-- **Data Usage**: Details on how we use your information.
-- **Data Protection**: Steps we take to secure your information.
 
 For more specific policies, please explore the relevant sections above.
