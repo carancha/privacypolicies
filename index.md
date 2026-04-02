@@ -8,6 +8,6 @@ Our commitment to your privacy is paramount. We outline how we collect, use, and
 
 ## Policies
 
-- <span style="color: blue;">[**BoxShelf**](boxshelf-privacy.md)</span> - Privacy policy for the BoxShelf app
+- <span style="color: blue;">[**BoxShelf**](boxshelf.md)</span> - Privacy policy for the BoxShelf app
 
 For more specific policies, please explore the relevant sections above.
